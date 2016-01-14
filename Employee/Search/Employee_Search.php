@@ -118,7 +118,7 @@
 							<h2 style="color: red;">Employee Search</h2>
 							<br>
 							<br>
-							<form class="form-search" method="post" action="search.php">
+							<form class="form-search" method="post" action="Employee_Search.php">
 								<div class="input-group">
 									  <input type="text" name="search" class="form-control">
 									  <span class="input-group-btn">
